@@ -28,11 +28,11 @@ class Solution(object):
         6. if sum is less than target, increment left
         7. if sum id greater than target, decrement right
     
-    Time complexity: o(n)
+    Time complexity: O(n)
 
-    Space complexity: 1
-
+    Space complexity: O(1)
     """
+
     def twoSum(self, numbers, target):
         """
         :type numbers: List[int]
