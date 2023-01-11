@@ -90,4 +90,3 @@ class Solution(object):
                     result.append(num)
 
         return result
-
