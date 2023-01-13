@@ -37,3 +37,8 @@ class Solution(object):
 
         return entries.values()
                 
+
+if __name__ == "__main__":
+    s = Solution()
+    out = s.groupAnagrams(["eat","tea","tan","ate","nat","bat"])
+    print(out)
